@@ -4,8 +4,8 @@ A simple and fast Node.js module for validating incoming data against specified 
 ## Usage
 1. Install the module using npm:
    ```bash
-   npm install your-validator-module-name
-
+npm install your-validator-module-name
+```
 2. Import the module in your Node.js application:
 ```javascript
 const { createValidator } = require('simple-validator');
@@ -75,6 +75,6 @@ const result2 = postSchema(post2);
 console.log(result2); // returns {match: false,error: "Field 'author' has an invalid type. Expected a string."}
 ```
 ## Links
-Telegram chat: t.me/zadevv - here you can get help.
-Telegram channel of the studio: t.me/za_it
-Find the creator in telegram: @ArtemiyZarubin
+1. Telegram chat: t.me/zadevv - here you can get help.
+2. Telegram channel of the studio: t.me/za_it
+3. Find the creator in telegram: @ArtemiyZarubin
