@@ -1,0 +1,20 @@
+{
+    "name": "simple-validator",
+    "version": "1.0.0",
+    "description": "Simple and lightweight Node.js module for fast and customizable data validation. Define flexible schemas to ensure your data meets specific criteria effortlessly.",
+    "main": "validator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Artemiy-Zarubin/simple-validator.git"
+    },
+    "keywords": ["node", "validator", "simple validator", "simple-validator", "nodejs validator", "npm validator"],
+    "author": "Artemiy Zarubin | ZA Development Studio",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Artemiy-Zarubin/simple-validator/issues"
+    },
+    "homepage": "https://github.com/Artemiy-Zarubin/simple-validator"
+}
