@@ -1,9 +1,9 @@
-# Simple-Validator
+# simple-validator
 A simple and fast Node.js module for validating incoming data against specified schemas.
 
 ## Usage
 1. Install the module using npm:
-   ```bash
+```bash
 npm install your-validator-module-name
 ```
 
