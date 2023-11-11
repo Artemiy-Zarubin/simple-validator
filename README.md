@@ -75,6 +75,6 @@ const result2 = postSchema(post2);
 console.log(result2); // returns {match: false,error: "Field 'author' has an invalid type. Expected a string."}
 ```
 ## Links
-1. Telegram chat: t.me/zadevv - here you can get help.
-2. Telegram channel of the studio: t.me/za_it
-3. Find the creator in telegram: @ArtemiyZarubin
+1. Telegram chat: [Visit](https://t.me/zadevv) - here you can get help.
+2. Telegram channel of the studio: [Visit](t.me/za_it)
+3. Find the creator in telegram: [@ArtemiyZarubin](https://t.me/ArtemiyZarubin)
