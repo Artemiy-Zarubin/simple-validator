@@ -1,15 +1,15 @@
-# Simple Validator
+# Simple Validator (Node.js)
 A simple and fast Node.js module for validating incoming data against specified schemas.
 
 ## Usage
 1. Install the module using npm:
 ```bash
-npm install simp-validator
+npm install simp-validate
 ```
 
 2. Import the module in your Node.js application:
 ```javascript
-const { createValidator } = require('simp-validator');
+const { createValidator } = require('simp-validate');
 ```
 
 3. Create a schema for your data using the createValidator function:
@@ -43,7 +43,7 @@ Available types: 'String', 'Number', 'Enum', 'Array', 'Double'.
 
 ## Example
 ```javascript
-const { createValidator } = require('simp-validator');
+const { createValidator } = require('simp-validate');
 const postSchema = createValidator({
     author: { type: 'String', required: true, minLength: 5, maxLength: 24 },
     comments: {
